@@ -2,7 +2,6 @@
 """
 Created on Fri Apr  9 14:30:46 2021
 
-@author: anila chowdary
 """
 print("********* PRESERVE THE PRECIOUS ************ ")
 name_place=input("Enter the name of the place where production to be caculated : ")
